@@ -1,3 +1,3 @@
 A portfolio website built with gatsby. 
 Visit 
-alan-maluki.netlify.app
+https://www.alan-maluki.netlify.app
