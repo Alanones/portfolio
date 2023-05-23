@@ -15,7 +15,7 @@ export const jobs = [
   {
     position: "Software engineer",
     company: "Frontastic Inc.",
-    date: "October 2020 - May 2022",
+    date: "January 2020 - May 2022",
     desc: [
       {
         id: 1,
@@ -33,6 +33,7 @@ export const jobs = [
   },
   {
     position: "Web developer",
+     date: "February 2018 - November 2019",
     company: "Trakstar Inc",
     desc: [
       {
