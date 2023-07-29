@@ -1,8 +1,25 @@
 export const jobs = [
   {
     position: "Software developer",
-    company: "Fiverr",
-    date: "June 2022-",
+    company: "Opillis",
+    date: "March 2023-",
+    desc: [
+      { id: 1, name: "Design and develop full-stack web applications." },
+
+      {
+        id: 2,
+        name: "Write effective APIs",
+      },
+      {
+        id: 3,
+        name: "Test software to ensure responsiveness and efficiency",
+      },
+    ],
+  },
+  {
+    position: "Software developer",
+    company: "Hyqoo",
+    date: "June 2022- March 2023",
     desc: [
       { id: 1, name: "Creating RESTFull APIs for customers & integrating frontend with backed APIs" },
 
